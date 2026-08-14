@@ -4,7 +4,7 @@ An MCP (Model Context Protocol) server that interfaces with the [Missive API](ht
 
 ## Prerequisites
 
-- Node.js 18+
+- Node.js 20+
 - Missive account with **Productive plan** (required for API access)
 - Missive API token
 
